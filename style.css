@@ -78,3 +78,7 @@ body {
 	border: 5px solid #af3bcc;
 	width: 400px;
 }
+
+.imgContainer {
+    float: left;
+}

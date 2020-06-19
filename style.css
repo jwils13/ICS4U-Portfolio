@@ -80,5 +80,7 @@ body {
 }
 
 .imgContainer {
-    float: left;
+  float: left;
+  padding-right: 55px;
+  padding-left: 25px;
 }
